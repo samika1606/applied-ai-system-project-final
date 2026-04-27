@@ -1,0 +1,9 @@
+2026-04-27 01:10:18 [INFO] recommender: Starting recommender in mode=classic
+2026-04-27 01:10:18 [INFO] recommender: Loaded 18 songs from data/songs.csv
+2026-04-27 01:10:18 [INFO] recommender: Running classic (rule-based) mode with 6 profiles
+2026-04-27 01:13:56 [INFO] recommender: Starting recommender in mode=classic
+2026-04-27 01:13:56 [INFO] recommender: Loaded 18 songs from data/songs.csv
+2026-04-27 01:13:56 [INFO] recommender: Running classic (rule-based) mode with 6 profiles
+2026-04-27 01:21:10 [INFO] recommender: Starting recommender in mode=classic
+2026-04-27 01:21:10 [INFO] recommender: Loaded 18 songs from data/songs.csv
+2026-04-27 01:21:10 [INFO] recommender: Running classic (rule-based) mode with 6 profiles
